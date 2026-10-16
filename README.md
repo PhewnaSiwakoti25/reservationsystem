@@ -24,11 +24,10 @@ This project is a **Reservation System** implemented in **C++**, designed to han
 - Cancel a Reservation
 - Admin Access
 - 
-# 📸 Preview
-https://www.shronal.com.np/hotelreservation.html
+
 
 ## 👨‍💻 Author
-🔹 Shronal Duwal (www.shronal.com.np)
+🔹 Phewna Siwakoti
 
 
 ## 📜 License
